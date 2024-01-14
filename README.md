@@ -1,2 +1,2 @@
 # EC-Net
-Coming soon!
+Coming soon.
